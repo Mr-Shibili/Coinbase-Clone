@@ -1,0 +1,30 @@
+@font-face {
+    font-family: medium;
+    src: url(./fonts/CoinbaseDisplay-Medium.88e532b2f6f58aac7f1dbbd3b4731e92.ttf);
+}
+@font-face {
+    font-family: Smedium;
+    src: url(./fonts/CoinbaseSans-Medium.b54c6aeed882bdf66df4e5fac9c2340e.ttf);
+}
+@font-face {
+    font-family: regular;
+    src: url(./fonts/CoinbaseText-Regular.d65a3b1d9255924adbeeabac46787723.ttf);
+}
+@font-face {
+    font-family: Sregular;
+    src: url(./fonts/CoinbaseSans-Regular.c9a6e887656f7b1014db3f1a07247ee2.ttf);
+}
+body{
+    font-family: Sregular;
+    font-weight: 600;
+}
+
+@media screen and (max-width:767px) {
+    .btnGet{
+        width:rem;
+    }
+}
+.xlfont {
+    font-size: 4rem !important;
+}
+

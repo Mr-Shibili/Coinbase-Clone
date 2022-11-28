@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Airtel"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Week 2"
+	}
+}
